@@ -1,0 +1,529 @@
+Updated,Type,Module,Source,F/P,Data
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,1103
+2021-01-15 22:06:44,BGP_AS_PEER,sfp_ripe,20857,0,1103
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,1140
+2021-01-15 22:08:05,BGP_AS_PEER,sfp_ripe,20857,0,1140
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,12350
+2021-01-15 22:08:06,BGP_AS_PEER,sfp_ripe,20857,0,12350
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,12552
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,12637
+2021-01-15 22:08:07,BGP_AS_PEER,sfp_ripe,20857,0,12637
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,1267
+2021-01-15 22:06:46,BGP_AS_PEER,sfp_ripe,20857,0,1267
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,12779
+2021-01-15 22:08:08,BGP_AS_PEER,sfp_ripe,20857,0,12779
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,12859
+2021-01-15 22:08:11,BGP_AS_PEER,sfp_ripe,20857,0,12859
+2021-01-15 22:06:47,BGP_AS_PEER,sfp_ripe,20857,0,12874
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,13030
+2021-01-15 22:06:48,BGP_AS_PEER,sfp_ripe,20857,0,13030
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,13194
+2021-01-15 22:06:49,BGP_AS_PEER,sfp_ripe,20857,0,13194
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,13237
+2021-01-15 22:08:13,BGP_AS_PEER,sfp_ripe,20857,0,13237
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,13786
+2021-01-15 22:06:50,BGP_AS_PEER,sfp_ripe,20857,0,13786
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,14061
+2021-01-15 22:08:14,BGP_AS_PEER,sfp_ripe,20857,0,14061
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,14630
+2021-01-15 22:08:15,BGP_AS_PEER,sfp_ripe,20857,0,14630
+2021-01-15 22:09:38,NETBLOCK_MEMBER,sfp_bgpview,149.210.195.149,0,149.210.128.0/17
+2021-01-15 22:10:15,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.139
+2021-01-15 22:10:59,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.140
+2021-01-15 22:11:58,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.141
+2021-01-15 22:12:27,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.142
+2021-01-15 22:14:22,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.143
+2021-01-15 22:14:45,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.144
+2021-01-15 22:15:10,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.145
+2021-01-15 22:15:36,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.146
+2021-01-15 22:15:58,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.147
+2021-01-15 22:16:21,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.148
+2021-01-15 22:06:12,IP_ADDRESS,sfp_mnemonic,myndr.nl,0,149.210.195.149
+2021-01-15 22:16:44,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.150
+2021-01-15 22:17:08,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.151
+2021-01-15 22:17:51,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.152
+2021-01-15 22:18:20,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.153
+2021-01-15 22:19:15,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.154
+2021-01-15 22:20:08,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.155
+2021-01-15 22:21:25,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.156
+2021-01-15 22:25:33,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.157
+2021-01-15 22:32:33,AFFILIATE_IPADDR,sfp_dnsneighbor,149.210.195.149,0,149.210.195.159
+2021-01-15 22:08:17,BGP_AS_PEER,sfp_ripe,20857,0,14907
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,15435
+2021-01-15 22:08:24,BGP_AS_PEER,sfp_ripe,20857,0,15435
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,15547
+2021-01-15 22:08:25,BGP_AS_PEER,sfp_ripe,20857,0,15547
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,15576
+2021-01-15 22:06:51,BGP_AS_PEER,sfp_ripe,20857,0,15576
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,15830
+2021-01-15 22:06:53,BGP_AS_PEER,sfp_ripe,20857,0,15830
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,16347
+2021-01-15 22:08:26,BGP_AS_PEER,sfp_ripe,20857,0,16347
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,174
+2021-01-15 22:06:54,BGP_AS_PEER,sfp_ripe,20857,0,174
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,1764
+2021-01-15 22:06:55,BGP_AS_PEER,sfp_ripe,20857,0,1764
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,18106
+2021-01-15 22:08:27,BGP_AS_PEER,sfp_ripe,20857,0,18106
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,199524
+2021-01-15 22:08:29,BGP_AS_PEER,sfp_ripe,20857,0,199524
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,199938
+2021-01-15 22:08:30,BGP_AS_PEER,sfp_ripe,20857,0,199938
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,203096
+2021-01-15 22:08:03,BGP_AS_PEER,sfp_ripe,20857,0,203096
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,203900
+2021-01-15 22:08:31,BGP_AS_PEER,sfp_ripe,20857,0,203900
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,205206
+2021-01-15 22:08:32,BGP_AS_PEER,sfp_ripe,20857,0,205206
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,20562
+2021-01-15 22:06:57,BGP_AS_PEER,sfp_ripe,20857,0,20562
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,206313
+2021-01-15 22:08:33,BGP_AS_PEER,sfp_ripe,20857,0,206313
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,206499
+2021-01-15 22:06:58,BGP_AS_PEER,sfp_ripe,20857,0,206499
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,206861
+2021-01-15 22:08:04,BGP_AS_PEER,sfp_ripe,20857,0,206861
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,20764
+2021-01-15 22:06:59,BGP_AS_PEER,sfp_ripe,20857,0,20764
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,207910
+2021-01-15 22:08:34,BGP_AS_PEER,sfp_ripe,20857,0,207910
+2021-01-15 22:06:33,BGP_AS_MEMBER,sfp_bgpview,149.210.195.149,0,20857
+2021-01-15 22:09:53,BGP_AS_MEMBER,sfp_ripe,149.210.128.0/17,0,20857
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,208627
+2021-01-15 22:08:35,BGP_AS_PEER,sfp_ripe,20857,0,208627
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,20932
+2021-01-15 22:08:36,BGP_AS_PEER,sfp_ripe,20857,0,20932
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,209650
+2021-01-15 22:08:37,BGP_AS_PEER,sfp_ripe,20857,0,209650
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,2119
+2021-01-15 22:07:01,BGP_AS_PEER,sfp_ripe,20857,0,2119
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,213382
+2021-01-15 22:08:38,BGP_AS_PEER,sfp_ripe,20857,0,213382
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,24482
+2021-01-15 22:07:02,BGP_AS_PEER,sfp_ripe,20857,0,24482
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,24961
+2021-01-15 22:08:39,BGP_AS_PEER,sfp_ripe,20857,0,24961
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,25091
+2021-01-15 22:07:03,BGP_AS_PEER,sfp_ripe,20857,0,25091
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,25160
+2021-01-15 22:08:40,BGP_AS_PEER,sfp_ripe,20857,0,25160
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,25220
+2021-01-15 22:08:41,BGP_AS_PEER,sfp_ripe,20857,0,25220
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,25369
+2021-01-15 22:07:05,BGP_AS_PEER,sfp_ripe,20857,0,25369
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,264556
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,267613
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,28186
+2021-01-15 22:08:44,BGP_AS_PEER,sfp_ripe,20857,0,28186
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,286
+2021-01-15 22:07:08,BGP_AS_PEER,sfp_ripe,20857,0,286
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,28634
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,29075
+2021-01-15 22:07:09,BGP_AS_PEER,sfp_ripe,20857,0,29075
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,2914
+2021-01-15 22:07:10,BGP_AS_PEER,sfp_ripe,20857,0,2914
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,29140
+2021-01-15 22:08:47,BGP_AS_PEER,sfp_ripe,20857,0,29140
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,29208
+2021-01-15 22:07:12,BGP_AS_PEER,sfp_ripe,20857,0,29208
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,29467
+2021-01-15 22:08:48,BGP_AS_PEER,sfp_ripe,20857,0,29467
+2021-01-15 22:06:01,IPV6_ADDRESS,sfp_mnemonic,myndr.nl,0,2a01:7c8:eb:0:149:210:195:149
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,30132
+2021-01-15 22:08:49,BGP_AS_PEER,sfp_ripe,20857,0,30132
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,31122
+2021-01-15 22:08:51,BGP_AS_PEER,sfp_ripe,20857,0,31122
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,31133
+2021-01-15 22:07:14,BGP_AS_PEER,sfp_ripe,20857,0,31133
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,31424
+2021-01-15 22:08:52,BGP_AS_PEER,sfp_ripe,20857,0,31424
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,31500
+2021-01-15 22:07:15,BGP_AS_PEER,sfp_ripe,20857,0,31500
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,3214
+2021-01-15 22:08:53,BGP_AS_PEER,sfp_ripe,20857,0,3214
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,3216
+2021-01-15 22:07:20,BGP_AS_PEER,sfp_ripe,20857,0,3216
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,3257
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,3267
+2021-01-15 22:07:26,BGP_AS_PEER,sfp_ripe,20857,0,3267
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,3280
+2021-01-15 22:08:55,BGP_AS_PEER,sfp_ripe,20857,0,3280
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,3333
+2021-01-15 22:08:57,BGP_AS_PEER,sfp_ripe,20857,0,3333
+2021-01-15 22:07:27,BGP_AS_PEER,sfp_ripe,20857,0,33891
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,34019
+2021-01-15 22:07:29,BGP_AS_PEER,sfp_ripe,20857,0,34019
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,34177
+2021-01-15 22:08:58,BGP_AS_PEER,sfp_ripe,20857,0,34177
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,34224
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,34288
+2021-01-15 22:08:59,BGP_AS_PEER,sfp_ripe,20857,0,34288
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,34549
+2021-01-15 22:07:30,BGP_AS_PEER,sfp_ripe,20857,0,34549
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,34854
+2021-01-15 22:09:00,BGP_AS_PEER,sfp_ripe,20857,0,34854
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,34927
+2021-01-15 22:07:31,BGP_AS_PEER,sfp_ripe,20857,0,34927
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,35280
+2021-01-15 22:07:32,BGP_AS_PEER,sfp_ripe,20857,0,35280
+2021-01-15 22:07:33,BGP_AS_PEER,sfp_ripe,20857,0,35320
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,35598
+2021-01-15 22:09:01,BGP_AS_PEER,sfp_ripe,20857,0,35598
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,37468
+2021-01-15 22:09:02,BGP_AS_PEER,sfp_ripe,20857,0,37468
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,37662
+2021-01-15 22:07:34,BGP_AS_PEER,sfp_ripe,20857,0,37662
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,37721
+2021-01-15 22:09:04,BGP_AS_PEER,sfp_ripe,20857,0,37721
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,39107
+2021-01-15 22:07:36,BGP_AS_PEER,sfp_ripe,20857,0,39107
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,39122
+2021-01-15 22:09:05,BGP_AS_PEER,sfp_ripe,20857,0,39122
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,39351
+2021-01-15 22:09:06,BGP_AS_PEER,sfp_ripe,20857,0,39351
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,39533
+2021-01-15 22:07:36,BGP_AS_PEER,sfp_ripe,20857,0,39533
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,41255
+2021-01-15 22:09:06,BGP_AS_PEER,sfp_ripe,20857,0,41255
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,41327
+2021-01-15 22:07:39,BGP_AS_PEER,sfp_ripe,20857,0,41327
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,42541
+2021-01-15 22:09:07,BGP_AS_PEER,sfp_ripe,20857,0,42541
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,42708
+2021-01-15 22:07:40,BGP_AS_PEER,sfp_ripe,20857,0,42708
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,42861
+2021-01-15 22:09:09,BGP_AS_PEER,sfp_ripe,20857,0,42861
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,43531
+2021-01-15 22:07:41,BGP_AS_PEER,sfp_ripe,20857,0,43531
+2021-01-15 22:07:43,BGP_AS_PEER,sfp_ripe,20857,0,44684
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,47147
+2021-01-15 22:09:10,BGP_AS_PEER,sfp_ripe,20857,0,47147
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,48362
+2021-01-15 22:07:44,BGP_AS_PEER,sfp_ripe,20857,0,48362
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,48858
+2021-01-15 22:07:45,BGP_AS_PEER,sfp_ripe,20857,0,48858
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,49697
+2021-01-15 22:09:11,BGP_AS_PEER,sfp_ripe,20857,0,49697
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,50300
+2021-01-15 22:09:12,BGP_AS_PEER,sfp_ripe,20857,0,50300
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,50304
+2021-01-15 22:09:13,BGP_AS_PEER,sfp_ripe,20857,0,50304
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,50629
+2021-01-15 22:07:46,BGP_AS_PEER,sfp_ripe,20857,0,50629
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,50763
+2021-01-15 22:09:14,BGP_AS_PEER,sfp_ripe,20857,0,50763
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,51088
+2021-01-15 22:09:15,BGP_AS_PEER,sfp_ripe,20857,0,51088
+2021-01-15 22:09:16,BGP_AS_PEER,sfp_ripe,20857,0,51185
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,52320
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,55329
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,56381
+2021-01-15 22:07:47,BGP_AS_PEER,sfp_ripe,20857,0,56381
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,56665
+2021-01-15 22:09:20,BGP_AS_PEER,sfp_ripe,20857,0,56665
+2021-01-15 22:07:48,BGP_AS_PEER,sfp_ripe,20857,0,5713
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,57164
+2021-01-15 22:09:21,BGP_AS_PEER,sfp_ripe,20857,0,57164
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,57463
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,57695
+2021-01-15 22:09:22,BGP_AS_PEER,sfp_ripe,20857,0,57695
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,57866
+2021-01-15 22:07:49,BGP_AS_PEER,sfp_ripe,20857,0,57866
+2021-01-15 22:07:50,BGP_AS_PEER,sfp_ripe,20857,0,58299
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,58511
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,59605
+2021-01-15 22:09:23,BGP_AS_PEER,sfp_ripe,20857,0,59605
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,60501
+2021-01-15 22:07:51,BGP_AS_PEER,sfp_ripe,20857,0,60501
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,62167
+2021-01-15 22:09:24,BGP_AS_PEER,sfp_ripe,20857,0,62167
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,6233
+2021-01-15 22:09:25,BGP_AS_PEER,sfp_ripe,20857,0,6233
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,6667
+2021-01-15 22:09:29,BGP_AS_PEER,sfp_ripe,20857,0,6667
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,6939
+2021-01-15 22:07:53,BGP_AS_PEER,sfp_ripe,20857,0,6939
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,8283
+2021-01-15 22:09:31,BGP_AS_PEER,sfp_ripe,20857,0,8283
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,8309
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,8365
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,8426
+2021-01-15 22:09:36,BGP_AS_PEER,sfp_ripe,20857,0,8426
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,8447
+2021-01-15 22:07:54,BGP_AS_PEER,sfp_ripe,20857,0,8447
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,8492
+2021-01-15 22:06:41,BGP_AS_PEER,sfp_bgpview,20857,0,8708
+2021-01-15 22:07:55,BGP_AS_PEER,sfp_ripe,20857,0,8708
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,8732
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,8758
+2021-01-15 22:07:56,BGP_AS_PEER,sfp_ripe,20857,0,8758
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,9002
+2021-01-15 22:08:01,BGP_AS_PEER,sfp_ripe,20857,0,9002
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,9044
+2021-01-15 22:08:02,BGP_AS_PEER,sfp_ripe,20857,0,9044
+2021-01-15 22:06:40,BGP_AS_PEER,sfp_bgpview,20857,0,9304
+2021-01-15 22:09:38,BGP_AS_PEER,sfp_ripe,20857,0,9304
+2021-01-15 22:02:54,PROVIDER_MAIL,sfp_dnsraw,myndr.nl,0,ALT1.ASPMX.L.GOOGLE.COM
+2021-01-15 22:02:54,AFFILIATE_INTERNET_NAME,sfp_dnsraw,myndr.nl,0,ALT1.ASPMX.L.GOOGLE.COM
+2021-01-15 22:03:30,PROVIDER_MAIL,sfp_dnsraw,myndr.nl,0,ALT2.ASPMX.L.GOOGLE.COM
+2021-01-15 22:03:30,AFFILIATE_INTERNET_NAME,sfp_dnsraw,myndr.nl,0,ALT2.ASPMX.L.GOOGLE.COM
+2021-01-15 22:00:34,PROVIDER_MAIL,sfp_dnsraw,myndr.nl,0,ASPMX.L.GOOGLE.COM
+2021-01-15 22:00:34,AFFILIATE_INTERNET_NAME,sfp_dnsraw,myndr.nl,0,ASPMX.L.GOOGLE.COM
+2021-01-15 22:01:38,PROVIDER_MAIL,sfp_dnsraw,myndr.nl,0,ASPMX2.GOOGLEMAIL.COM
+2021-01-15 22:01:38,AFFILIATE_INTERNET_NAME,sfp_dnsraw,myndr.nl,0,ASPMX2.GOOGLEMAIL.COM
+2021-01-15 22:02:14,PROVIDER_MAIL,sfp_dnsraw,myndr.nl,0,ASPMX3.GOOGLEMAIL.COM
+2021-01-15 22:02:14,AFFILIATE_INTERNET_NAME,sfp_dnsraw,myndr.nl,0,ASPMX3.GOOGLEMAIL.COM
+2021-01-15 22:09:39,MALICIOUS_SUBNET,sfp_abuseipdb,149.210.128.0/17,0,"AbuseIPDB Netblock [149.210.128.0/17]
+https://www.abuseipdb.com/check/149.210.128.0/17"
+2021-01-15 22:10:16,MALICIOUS_AFFILIATE_IPADDR,sfp_abuseipdb,149.210.195.139,0,"AbuseIPDB Single IP [149.210.195.139]
+https://www.abuseipdb.com/check/149.210.195.139"
+2021-01-15 22:11:00,MALICIOUS_AFFILIATE_IPADDR,sfp_abuseipdb,149.210.195.140,0,"AbuseIPDB Single IP [149.210.195.140]
+https://www.abuseipdb.com/check/149.210.195.140"
+2021-01-15 22:11:59,MALICIOUS_AFFILIATE_IPADDR,sfp_abuseipdb,149.210.195.141,0,"AbuseIPDB Single IP [149.210.195.141]
+https://www.abuseipdb.com/check/149.210.195.141"
+2021-01-15 22:12:28,MALICIOUS_AFFILIATE_IPADDR,sfp_abuseipdb,149.210.195.142,0,"AbuseIPDB Single IP [149.210.195.142]
+https://www.abuseipdb.com/check/149.210.195.142"
+2021-01-15 22:14:23,MALICIOUS_AFFILIATE_IPADDR,sfp_abuseipdb,149.210.195.143,0,"AbuseIPDB Single IP [149.210.195.143]
+https://www.abuseipdb.com/check/149.210.195.143"
+2021-01-15 22:14:46,MALICIOUS_AFFILIATE_IPADDR,sfp_abuseipdb,149.210.195.144,0,"AbuseIPDB Single IP [149.210.195.144]
+https://www.abuseipdb.com/check/149.210.195.144"
+2021-01-15 22:15:12,MALICIOUS_AFFILIATE_IPADDR,sfp_abuseipdb,149.210.195.145,0,"AbuseIPDB Single IP [149.210.195.145]
+https://www.abuseipdb.com/check/149.210.195.145"
+2021-01-15 22:15:38,MALICIOUS_AFFILIATE_IPADDR,sfp_abuseipdb,149.210.195.146,0,"AbuseIPDB Single IP [149.210.195.146]
+https://www.abuseipdb.com/check/149.210.195.146"
+2021-01-15 22:15:59,MALICIOUS_AFFILIATE_IPADDR,sfp_abuseipdb,149.210.195.147,0,"AbuseIPDB Single IP [149.210.195.147]
+https://www.abuseipdb.com/check/149.210.195.147"
+2021-01-15 22:16:22,MALICIOUS_AFFILIATE_IPADDR,sfp_abuseipdb,149.210.195.148,0,"AbuseIPDB Single IP [149.210.195.148]
+https://www.abuseipdb.com/check/149.210.195.148"
+2021-01-15 22:06:18,MALICIOUS_IPADDR,sfp_abuseipdb,149.210.195.149,0,"AbuseIPDB Single IP [149.210.195.149]
+https://www.abuseipdb.com/check/149.210.195.149"
+2021-01-15 22:01:16,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,Alphabet Inc.
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"Blogspot (Category: blog)
+http://myndr.blogspot.com"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"Blogspot (Category: blog)
+http://myndr.blogspot.com"
+2021-01-15 22:37:11,SSL_CERTIFICATE_RAW,sfp_crt,osd.myndr.nl,0,"Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            04:14:08:9c:98:25:f2:a2:0d:ac:99:22:41:1b:08:0a:08:0d
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3
+        Validity
+            Not Before: May  2 14:57:40 2020 GMT
+            Not After : Jul 31 14:57:40 2020 GMT
+        Subject: CN=osd.myndr.nl
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:cc:55:0c:8b:55:08:8e:cb:39:6e:38:ae:25:d7:
+                    c6:64:79:6e:9e:71:db:99:50:ac:7f:e4:8c:7e:13:
+                    14:50:29:cc:be:43:bb:b2:b2:62:8c:9d:49:2b:55:
+                    50:ca:8f:54:6b:ec:18:a7:80:76:76:4a:c2:ed:d2:
+                    fe:73:78:e4:ee:15:3f:b1:d9:f5:24:d5:c4:00:6c:
+                    b5:e8:ea:6c:0c:cc:8f:38:46:21:a2:ac:2b:5b:52:
+                    5a:85:68:41:d5:c6:83:10:76:24:71:48:f2:7c:d8:
+      "
+2021-01-15 22:02:07,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX2.GOOGLEMAIL.COM,0,Cross-platform software
+2021-01-15 22:01:16,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,Dragonfly (search engine) - The Dragonfly project was an Internet search engine prototype created by Google that was designed to be compatible with China's state censorship provisions.
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"Facebook (Category: social)
+https://mbasic.facebook.com/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"Facebook (Category: social)
+https://mbasic.facebook.com/myndr"
+2021-01-15 22:05:30,WEB_ANALYTICS_ID,sfp_webanalytics,facebook-domain-verification=clw5k9o3olocgi3036u0fnp6udv1kr,0,Facebook Domain Verification: clw5k9o3olocgi3036u0fnp6udv1kr
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"GitHub (Category: coding)
+https://api.github.com/users/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"GitHub (Category: coding)
+https://api.github.com/users/myndr"
+2021-01-15 22:02:07,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX2.GOOGLEMAIL.COM,0,Gmail Category
+2021-01-15 22:02:07,AFFILIATE_DESCRIPTION_ABSTRACT,sfp_duckduckgo,ASPMX2.GOOGLEMAIL.COM,0,"Gmail is a free email service developed by Google. Users can access Gmail on the web and using third-party programs that synchronize email content through POP or IMAP protocols. Gmail started as a limited beta release on April 1, 2004 and ended its testing phase on July 7, 2009. By October 2019, Gmail had 1.5 billion active users worldwide. At launch, Gmail had an initial storage capacity offer of one gigabyte per user, a significantly higher amount than competitors offered at the time. Today, the service comes with 15 gigabytes of storage. Users can receive emails up to 50 megabytes in size, including attachments, while they can send emails up to 25 megabytes. In order to send larger files, users can insert files from Google Drive into the message. Gmail has a search-oriented interface and a ""conversation view"" similar to an Internet forum. The service is notable among website developers for its early adoption of Ajax."
+2021-01-15 22:01:16,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,"Google (verb) - Due to the dominance of the Google search engine, to google became a transitive verb. The neologism commonly refers to searching for information on the World Wide Web using the Google search engine. The American Dialect Society chose it as the ""most useful word of 2002."""
+2021-01-15 22:01:16,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,"Google Panda - Google Panda is a major change to Google's search results ranking algorithm that was first released in February 2011. The change aimed to lower the rank of ""low-quality sites"" or ""thin sites"", in particular ""content farms"", and return higher-quality sites near the top of the search results."
+2021-01-15 22:01:16,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,"Google Penguin - Google Penguin was a codename for a Google algorithm update that was first announced on April 24, 2012."
+2021-01-15 22:01:16,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,Google Search Category
+2021-01-15 22:01:16,AFFILIATE_DESCRIPTION_ABSTRACT,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,"Google Search, or simply Google, is a web search engine developed by Google LLC. It is the most used search engine on the World Wide Web across all platforms, with 92.16% market share as of December 2020, handling more than 5.4 billion searches each day. The order of search results returned by Google is based, in part, on a priority rank system called ""PageRank"". Google Search also provides many different options for customized searches, using symbols to include, exclude, specify or require certain search behavior, and offers specialized interactive experiences, such as flight status and package tracking, weather forecasts, currency, unit, and time conversions, word definitions, and more. The main purpose of Google Search is to search for text in publicly accessible documents offered by web servers, as opposed to other data, such as images or data contained in databases. It was originally developed in 1997 by Larry Page, Sergey Brin, and Scott Hassan."
+2021-01-15 22:01:16,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,"Google bomb - The terms Google bomb and Googlewashing refer to the practice of causing a website to rank highly in web search engine results for irrelevant, unrelated or off-topic search terms by linking heavily."
+2021-01-15 22:02:07,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX2.GOOGLEMAIL.COM,0,Google services
+2021-01-15 22:01:16,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,Google services
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"Gravatar (Category: images)
+http://en.gravatar.com/profiles/myndr.json"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"Gravatar (Category: images)
+http://en.gravatar.com/profiles/myndr.json"
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"HackerOne (Category: tech)
+https://hackerone.com/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"HackerOne (Category: tech)
+https://hackerone.com/myndr"
+2021-01-15 22:01:16,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,Internet search engines
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"LibraryThing (Category: hobby)
+http://www.librarything.com/profile/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"LibraryThing (Category: hobby)
+http://www.librarything.com/profile/myndr"
+2021-01-15 22:01:16,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,Multilingual websites
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"MyFitnessPal (Category: health)
+https://www.myfitnesspal.com/user/myndr/status"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"MyFitnessPal (Category: health)
+https://www.myfitnesspal.com/user/myndr/status"
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"Periscope (Category: video)
+https://www.periscope.tv/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"Periscope (Category: video)
+https://www.periscope.tv/myndr"
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"SoundCloud (Category: music)
+https://soundcloud.com/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"SoundCloud (Category: music)
+https://soundcloud.com/myndr"
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"Steam (Category: gaming)
+https://steamcommunity.com/id/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"Steam (Category: gaming)
+https://steamcommunity.com/id/myndr"
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"Telegram (Category: social)
+https://t.me/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"Telegram (Category: social)
+https://t.me/myndr"
+2021-01-15 22:04:30,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_threatcrowd,ns1.transip.nl,0,"ThreatCrowd [ns1.transip.nl]
+https://www.threatcrowd.org/domain.php?domain=ns1.transip.nl"
+2021-01-15 22:05:29,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_threatcrowd,ns2.transip.eu,0,"ThreatCrowd [ns2.transip.eu]
+https://www.threatcrowd.org/domain.php?domain=ns2.transip.eu"
+2021-01-15 22:01:16,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,"Timeline of Google Search - Google Search, offered by Google, is the most widely used search engine on the World Wide Web as of 2014, with over three billion searches a day. This page covers key events in the history of Google's search service."
+2021-01-15 22:03:30,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_totalhash,ALT1.ASPMX.L.GOOGLE.COM,0,"TotalHash.com Database [ALT1.ASPMX.L.GOOGLE.COM]
+https://totalhash.cymru.com/search/?dnsrr:*ALT1.ASPMX.L.GOOGLE.COM%20or%20ip:ALT1.ASPMX.L.GOOGLE.COM"
+2021-01-15 22:04:06,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_totalhash,ALT2.ASPMX.L.GOOGLE.COM,0,"TotalHash.com Database [ALT2.ASPMX.L.GOOGLE.COM]
+https://totalhash.cymru.com/search/?dnsrr:*ALT2.ASPMX.L.GOOGLE.COM%20or%20ip:ALT2.ASPMX.L.GOOGLE.COM"
+2021-01-15 22:01:36,MALICIOUS_AFFILIATE_INTERNET_NAME,sfp_totalhash,ASPMX.L.GOOGLE.COM,0,"TotalHash.com Database [ASPMX.L.GOOGLE.COM]
+https://totalhash.cymru.com/search/?dnsrr:*ASPMX.L.GOOGLE.COM%20or%20ip:ASPMX.L.GOOGLE.COM"
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"Twitter (Category: social)
+https://shadowban.eu/.api/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"Twitter (Category: social)
+https://shadowban.eu/.api/myndr"
+2021-01-15 22:10:06,MALICIOUS_SUBNET,sfp_voipbl,149.210.128.0/17,0,"VOIPBL Publicly Accessible PBX List [149.210.128.0/17]
+http://www.voipbl.org/update"
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"Vimeo (Category: video)
+https://vimeo.com/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"Vimeo (Category: video)
+https://vimeo.com/myndr"
+2021-01-15 22:06:36,PHYSICAL_ADDRESS,sfp_bgpview,20857,0,"Vondellaan 47, 2332 AA, Leiden, NETHERLANDS"
+2021-01-15 22:09:43,PHYSICAL_ADDRESS,sfp_bgpview,149.210.128.0/17,0,"Vondellaan 47, 2332 AA, Leiden, NETHERLANDS"
+2021-01-15 22:02:07,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX2.GOOGLEMAIL.COM,0,Webmail
+2021-01-15 22:01:16,AFFILIATE_DESCRIPTION_CATEGORY,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,Websites which mirror Wikipedia
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"Xbox Gamertag (Category: gaming)
+https://www.xboxgamertag.com/search/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"Xbox Gamertag (Category: gaming)
+https://www.xboxgamertag.com/search/myndr"
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"YouTube (Category: video)
+https://www.youtube.com/user/myndr/videos"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"YouTube (Category: video)
+https://www.youtube.com/user/myndr/videos"
+2021-01-15 21:58:16,RAW_RIR_DATA,sfp_crt,osd.myndr.nl,0,"[{'issuer_ca_id': 183267, 'issuer_name': ""C=US, O=Let's Encrypt, CN=R3"", 'common_name': 'osd.myndr.nl', 'name_value': 'osd.myndr.nl', 'id': 3846951719, 'entry_timestamp': '2020-12-29T17:42:30.756', 'not_before': '2020-12-29T16:42:30', 'not_after': '2021-03-29T16:42:30', 'serial_number': '04bc9c4f275ecd61f3153e10f2d2bce0d71a'}, {'issuer_ca_id': 183267, 'issuer_name': ""C=US, O=Let's Encrypt, CN=R3"", 'common_name': 'osd.myndr.nl', 'name_value': 'osd.myndr.nl', 'id': 3846951312, 'entry_timestamp': '2020-12-29T17:42:30.579', 'not_before': '2020-12-29T16:42:30', 'not_after': '2021-03-29T16:42:30', 'serial_number': '04bc9c4f275ecd61f3153e10f2d2bce0d71a'}, {'issuer_ca_id': 16418, 'issuer_name': ""C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"", 'common_name': 'osd.myndr.nl', 'name_value': 'osd.myndr.nl', 'id': 3577305413, 'entry_timestamp': '2020-10-30T09:27:32.627', 'not_before': '2020-10-30T08:27:32', 'not_after': '2021-01-28T08:27:32', 'serial_number': '03d78213d8ea902025df02e1c9251bed16db'}, {'issuer_ca_id':"
+2021-01-15 21:57:35,RAW_RIR_DATA,sfp_crt,myndr.nl,0,"[{'issuer_ca_id': 183267, 'issuer_name': ""C=US, O=Let's Encrypt, CN=R3"", 'common_name': 'osd.myndr.nl', 'name_value': 'osd.myndr.nl', 'id': 3846951719, 'entry_timestamp': '2020-12-29T17:42:30.756', 'not_before': '2020-12-29T16:42:30', 'not_after': '2021-03-29T16:42:30', 'serial_number': '04bc9c4f275ecd61f3153e10f2d2bce0d71a'}, {'issuer_ca_id': 183267, 'issuer_name': ""C=US, O=Let's Encrypt, CN=R3"", 'common_name': 'osd.myndr.nl', 'name_value': 'osd.myndr.nl', 'id': 3846951312, 'entry_timestamp': '2020-12-29T17:42:30.579', 'not_before': '2020-12-29T16:42:30', 'not_after': '2021-03-29T16:42:30', 'serial_number': '04bc9c4f275ecd61f3153e10f2d2bce0d71a'}, {'issuer_ca_id': 183267, 'issuer_name': ""C=US, O=Let's Encrypt, CN=R3"", 'common_name': 'forum.myndr.nl', 'name_value': 'forum.myndr.nl', 'id': 3843672692, 'entry_timestamp': '2020-12-29T00:58:06.962', 'not_before': '2020-12-28T23:58:06', 'not_after': '2021-03-28T23:58:06', 'serial_number': '03e879d253660ad2b78750313e3af1fedb55'}, {'issuer_ca_id': 183267, 'issuer_na"
+2021-01-15 22:09:43,AFFILIATE_EMAILADDR,sfp_email,"{'prefix': '149.210.128.0/17', 'ip': '149.210.128.0', 'cidr': 17, 'asns': [{'asn': 20857, 'name': 'TRANSIP-AS', 'description': 'Amsterdam, the Netherlands', 'country_code': 'NL', 'prefix_upstreams': [{'asn': 57866, 'name': 'FUSIX-AS', 'description': 'Fusix Networks B.V.', 'country_code': 'NL'}, {'asn': 2914, 'name': 'NTT-COMMUNICATIONS-2914', 'description': 'NTT America, Inc.', 'country_code': 'US'}, {'asn': 3257, 'name': 'GTT-BACKBONE', 'description': 'GTT', 'country_code': 'US'}, {'asn': 174, 'name': 'COGENT-174', 'description': 'Cogent Communications', 'country_code': 'US'}]}], 'name': 'NL-TRANSIP-20110817', 'description_short': 'Transip B.V.', 'description_full': ['Transip B.V.'], 'email_contacts': ['abuse@transip.nl', 'ripe_notify@transip.net', 'support@transip.nl', 'ripe@transip.net'], 'abuse_contacts': ['abuse@transip.nl'], 'owner_address': ['Vondellaan 47', '2332 AA', 'Leiden', 'NETHERLANDS'], 'country_codes': {'whois_country_code': 'NL', 'rir_allocation_country_code': 'NL', 'maxmind_country_code': No",0,abuse@transip.nl
+2021-01-15 22:06:36,AFFILIATE_EMAILADDR,sfp_email,"{'asn': 20857, 'name': 'TRANSIP-AS', 'description_short': 'Amsterdam, the Netherlands', 'description_full': ['Amsterdam, the Netherlands'], 'country_code': 'NL', 'website': 'http://www.transip.nl/', 'email_contacts': ['abuse@transip.nl', 'ripe_notify@transip.net', 'support@transip.nl', 'ripe@transip.net'], 'abuse_contacts': ['abuse@transip.nl'], 'looking_glass': None, 'traffic_estimation': '50-100Gbps', 'traffic_ratio': 'Mostly Outbound', 'owner_address': ['Vondellaan 47', '2332 AA', 'Leiden', 'NETHERLANDS'], 'rir_allocation': {'rir_name': 'RIPE', 'country_code': 'NL', 'date_allocated': '2001-06-20 00:00:00', 'allocation_status': 'allocated'}, 'iana_assignment': {'assignment_status': 'assigned', 'description': 'Assigned by RIPE NCC', 'whois_server': 'whois.ripe.net', 'date_assigned': None}, 'date_updated': '2021-01-15 04:13:11'}",0,abuse@transip.nl
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"ask.fm (Category: social)
+https://ask.fm/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"ask.fm (Category: social)
+https://ask.fm/myndr"
+2021-01-15 22:18:27,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,149.210.195.153,0,balancer1.wh.transip.nl
+2021-01-15 22:19:22,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,149.210.195.154,0,balancer3.wh.transip.nl
+2021-01-15 22:05:30,DNS_TEXT,sfp_dnsraw,myndr.nl,0,facebook-domain-verification=clw5k9o3olocgi3036u0fnp6udv1kr
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"freesound (Category: music)
+https://freesound.org/people/myndr/"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"freesound (Category: music)
+https://freesound.org/people/myndr/"
+2021-01-15 22:01:14,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ASPMX.L.GOOGLE.COM,0,google.com
+2021-01-15 22:03:23,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ALT1.ASPMX.L.GOOGLE.COM,0,google.com
+2021-01-15 22:04:00,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ALT2.ASPMX.L.GOOGLE.COM,0,google.com
+2021-01-15 22:02:06,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ASPMX2.GOOGLEMAIL.COM,0,googlemail.com
+2021-01-15 22:02:39,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ASPMX3.GOOGLEMAIL.COM,0,googlemail.com
+2021-01-15 21:58:55,USERNAME,sfp_accounts,myndr.nl,0,myndr
+2021-01-15 21:58:16,DOMAIN_NAME,sfp_dnsresolve,osd.myndr.nl,0,myndr.nl
+2021-01-15 21:55:57,INTERNET_NAME,SpiderFoot UI,myndr.nl,0,myndr.nl
+2021-01-15 22:05:30,RAW_DNS_RECORDS,sfp_dnsraw,myndr.nl,0,"myndr.nl. 3438 IN NS ns1.transip.nl.
+myndr.nl. 3438 IN NS ns0.transip.net.
+myndr.nl. 3438 IN NS ns2.transip.eu."
+2021-01-15 22:04:07,RAW_DNS_RECORDS,sfp_dnsraw,myndr.nl,0,"myndr.nl. 377 IN MX 1 ASPMX.L.GOOGLE.COM.
+myndr.nl. 377 IN MX 10 ASPMX2.GOOGLEMAIL.COM.
+myndr.nl. 377 IN MX 10 ASPMX3.GOOGLEMAIL.COM.
+myndr.nl. 377 IN MX 5 ALT1.ASPMX.L.GOOGLE.COM.
+myndr.nl. 377 IN MX 5 ALT2.ASPMX.L.GOOGLE.COM."
+2021-01-15 22:05:30,RAW_DNS_RECORDS,sfp_dnsraw,myndr.nl,0,"myndr.nl. 4502 IN TXT ""v=spf1 include:_s66943278.fdmarc.net ~all""
+myndr.nl. 4502 IN TXT ""facebook-domain-verification=clw5k9o3olocgi3036u0fnp6udv1kr"""
+2021-01-15 22:04:31,PROVIDER_DNS,sfp_dnsraw,myndr.nl,0,ns0.transip.net
+2021-01-15 22:04:33,AFFILIATE_INTERNET_NAME,sfp_dnsraw,myndr.nl,0,ns0.transip.net
+2021-01-15 22:04:07,PROVIDER_DNS,sfp_dnsraw,myndr.nl,0,ns1.transip.nl
+2021-01-15 22:04:08,AFFILIATE_INTERNET_NAME,sfp_dnsraw,myndr.nl,0,ns1.transip.nl
+2021-01-15 22:05:05,PROVIDER_DNS,sfp_dnsraw,myndr.nl,0,ns2.transip.eu
+2021-01-15 22:05:06,AFFILIATE_INTERNET_NAME,sfp_dnsraw,myndr.nl,0,ns2.transip.eu
+2021-01-15 21:57:36,INTERNET_NAME,sfp_dnsresolve,"[{'issuer_ca_id': 183267, 'issuer_name': ""C=US, O=Let's Encrypt, CN=R3"", 'common_name': 'osd.myndr.nl', 'name_value': 'osd.myndr.nl', 'id': 3846951719, 'entry_timestamp': '2020-12-29T17:42:30.756', 'not_before': '2020-12-29T16:42:30', 'not_after': '2021-03-29T16:42:30', 'serial_number': '04bc9c4f275ecd61f3153e10f2d2bce0d71a'}, {'issuer_ca_id': 183267, 'issuer_name': ""C=US, O=Let's Encrypt, CN=R3"", 'common_name': 'osd.myndr.nl', 'name_value': 'osd.myndr.nl', 'id': 3846951312, 'entry_timestamp': '2020-12-29T17:42:30.579', 'not_before': '2020-12-29T16:42:30', 'not_after': '2021-03-29T16:42:30', 'serial_number': '04bc9c4f275ecd61f3153e10f2d2bce0d71a'}, {'issuer_ca_id': 183267, 'issuer_name': ""C=US, O=Let's Encrypt, CN=R3"", 'common_name': 'forum.myndr.nl', 'name_value': 'forum.myndr.nl', 'id': 3843672692, 'entry_timestamp': '2020-12-29T00:58:06.962', 'not_before': '2020-12-28T23:58:06', 'not_after': '2021-03-28T23:58:06', 'serial_number': '03e879d253660ad2b78750313e3af1fedb55'}, {'issuer_ca_id': 183267, 'issuer_na",0,osd.myndr.nl
+2021-01-15 22:37:15,INTERNET_NAME,sfp_dnsresolve,"Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            04:14:08:9c:98:25:f2:a2:0d:ac:99:22:41:1b:08:0a:08:0d
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3
+        Validity
+            Not Before: May  2 14:57:40 2020 GMT
+            Not After : Jul 31 14:57:40 2020 GMT
+        Subject: CN=osd.myndr.nl
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:cc:55:0c:8b:55:08:8e:cb:39:6e:38:ae:25:d7:
+                    c6:64:79:6e:9e:71:db:99:50:ac:7f:e4:8c:7e:13:
+                    14:50:29:cc:be:43:bb:b2:b2:62:8c:9d:49:2b:55:
+                    50:ca:8f:54:6b:ec:18:a7:80:76:76:4a:c2:ed:d2:
+                    fe:73:78:e4:ee:15:3f:b1:d9:f5:24:d5:c4:00:6c:
+                    b5:e8:ea:6c:0c:cc:8f:38:46:21:a2:ac:2b:5b:52:
+                    5a:85:68:41:d5:c6:83:10:76:24:71:48:f2:7c:d8:
+      ",0,osd.myndr.nl
+2021-01-15 21:58:16,INTERNET_NAME,sfp_dnsresolve,"[{'issuer_ca_id': 183267, 'issuer_name': ""C=US, O=Let's Encrypt, CN=R3"", 'common_name': 'osd.myndr.nl', 'name_value': 'osd.myndr.nl', 'id': 3846951719, 'entry_timestamp': '2020-12-29T17:42:30.756', 'not_before': '2020-12-29T16:42:30', 'not_after': '2021-03-29T16:42:30', 'serial_number': '04bc9c4f275ecd61f3153e10f2d2bce0d71a'}, {'issuer_ca_id': 183267, 'issuer_name': ""C=US, O=Let's Encrypt, CN=R3"", 'common_name': 'osd.myndr.nl', 'name_value': 'osd.myndr.nl', 'id': 3846951312, 'entry_timestamp': '2020-12-29T17:42:30.579', 'not_before': '2020-12-29T16:42:30', 'not_after': '2021-03-29T16:42:30', 'serial_number': '04bc9c4f275ecd61f3153e10f2d2bce0d71a'}, {'issuer_ca_id': 16418, 'issuer_name': ""C=US, O=Let's Encrypt, CN=Let's Encrypt Authority X3"", 'common_name': 'osd.myndr.nl', 'name_value': 'osd.myndr.nl', 'id': 3577305413, 'entry_timestamp': '2020-10-30T09:27:32.627', 'not_before': '2020-10-30T08:27:32', 'not_after': '2021-01-28T08:27:32', 'serial_number': '03d78213d8ea902025df02e1c9251bed16db'}, {'issuer_ca_id':",0,osd.myndr.nl
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"reddit (Category: news)
+https://www.reddit.com/user/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"reddit (Category: news)
+https://www.reddit.com/user/myndr"
+2021-01-15 22:09:43,AFFILIATE_EMAILADDR,sfp_email,"{'prefix': '149.210.128.0/17', 'ip': '149.210.128.0', 'cidr': 17, 'asns': [{'asn': 20857, 'name': 'TRANSIP-AS', 'description': 'Amsterdam, the Netherlands', 'country_code': 'NL', 'prefix_upstreams': [{'asn': 57866, 'name': 'FUSIX-AS', 'description': 'Fusix Networks B.V.', 'country_code': 'NL'}, {'asn': 2914, 'name': 'NTT-COMMUNICATIONS-2914', 'description': 'NTT America, Inc.', 'country_code': 'US'}, {'asn': 3257, 'name': 'GTT-BACKBONE', 'description': 'GTT', 'country_code': 'US'}, {'asn': 174, 'name': 'COGENT-174', 'description': 'Cogent Communications', 'country_code': 'US'}]}], 'name': 'NL-TRANSIP-20110817', 'description_short': 'Transip B.V.', 'description_full': ['Transip B.V.'], 'email_contacts': ['abuse@transip.nl', 'ripe_notify@transip.net', 'support@transip.nl', 'ripe@transip.net'], 'abuse_contacts': ['abuse@transip.nl'], 'owner_address': ['Vondellaan 47', '2332 AA', 'Leiden', 'NETHERLANDS'], 'country_codes': {'whois_country_code': 'NL', 'rir_allocation_country_code': 'NL', 'maxmind_country_code': No",0,ripe@transip.net
+2021-01-15 22:06:35,AFFILIATE_EMAILADDR,sfp_email,"{'asn': 20857, 'name': 'TRANSIP-AS', 'description_short': 'Amsterdam, the Netherlands', 'description_full': ['Amsterdam, the Netherlands'], 'country_code': 'NL', 'website': 'http://www.transip.nl/', 'email_contacts': ['abuse@transip.nl', 'ripe_notify@transip.net', 'support@transip.nl', 'ripe@transip.net'], 'abuse_contacts': ['abuse@transip.nl'], 'looking_glass': None, 'traffic_estimation': '50-100Gbps', 'traffic_ratio': 'Mostly Outbound', 'owner_address': ['Vondellaan 47', '2332 AA', 'Leiden', 'NETHERLANDS'], 'rir_allocation': {'rir_name': 'RIPE', 'country_code': 'NL', 'date_allocated': '2001-06-20 00:00:00', 'allocation_status': 'allocated'}, 'iana_assignment': {'assignment_status': 'assigned', 'description': 'Assigned by RIPE NCC', 'whois_server': 'whois.ripe.net', 'date_assigned': None}, 'date_updated': '2021-01-15 04:13:11'}",0,ripe@transip.net
+2021-01-15 22:09:43,AFFILIATE_EMAILADDR,sfp_email,"{'prefix': '149.210.128.0/17', 'ip': '149.210.128.0', 'cidr': 17, 'asns': [{'asn': 20857, 'name': 'TRANSIP-AS', 'description': 'Amsterdam, the Netherlands', 'country_code': 'NL', 'prefix_upstreams': [{'asn': 57866, 'name': 'FUSIX-AS', 'description': 'Fusix Networks B.V.', 'country_code': 'NL'}, {'asn': 2914, 'name': 'NTT-COMMUNICATIONS-2914', 'description': 'NTT America, Inc.', 'country_code': 'US'}, {'asn': 3257, 'name': 'GTT-BACKBONE', 'description': 'GTT', 'country_code': 'US'}, {'asn': 174, 'name': 'COGENT-174', 'description': 'Cogent Communications', 'country_code': 'US'}]}], 'name': 'NL-TRANSIP-20110817', 'description_short': 'Transip B.V.', 'description_full': ['Transip B.V.'], 'email_contacts': ['abuse@transip.nl', 'ripe_notify@transip.net', 'support@transip.nl', 'ripe@transip.net'], 'abuse_contacts': ['abuse@transip.nl'], 'owner_address': ['Vondellaan 47', '2332 AA', 'Leiden', 'NETHERLANDS'], 'country_codes': {'whois_country_code': 'NL', 'rir_allocation_country_code': 'NL', 'maxmind_country_code': No",0,ripe_notify@transip.net
+2021-01-15 22:06:35,AFFILIATE_EMAILADDR,sfp_email,"{'asn': 20857, 'name': 'TRANSIP-AS', 'description_short': 'Amsterdam, the Netherlands', 'description_full': ['Amsterdam, the Netherlands'], 'country_code': 'NL', 'website': 'http://www.transip.nl/', 'email_contacts': ['abuse@transip.nl', 'ripe_notify@transip.net', 'support@transip.nl', 'ripe@transip.net'], 'abuse_contacts': ['abuse@transip.nl'], 'looking_glass': None, 'traffic_estimation': '50-100Gbps', 'traffic_ratio': 'Mostly Outbound', 'owner_address': ['Vondellaan 47', '2332 AA', 'Leiden', 'NETHERLANDS'], 'rir_allocation': {'rir_name': 'RIPE', 'country_code': 'NL', 'date_allocated': '2001-06-20 00:00:00', 'allocation_status': 'allocated'}, 'iana_assignment': {'assignment_status': 'assigned', 'description': 'Assigned by RIPE NCC', 'whois_server': 'whois.ripe.net', 'date_assigned': None}, 'date_updated': '2021-01-15 04:13:11'}",0,ripe_notify@transip.net
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"shutterstock (Category: images)
+https://www.shutterstock.com/g/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"shutterstock (Category: images)
+https://www.shutterstock.com/g/myndr"
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"smule (Category: music)
+https://www.smule.com/myndr/"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"smule (Category: music)
+https://www.smule.com/myndr/"
+2021-01-15 22:09:43,AFFILIATE_EMAILADDR,sfp_email,"{'prefix': '149.210.128.0/17', 'ip': '149.210.128.0', 'cidr': 17, 'asns': [{'asn': 20857, 'name': 'TRANSIP-AS', 'description': 'Amsterdam, the Netherlands', 'country_code': 'NL', 'prefix_upstreams': [{'asn': 57866, 'name': 'FUSIX-AS', 'description': 'Fusix Networks B.V.', 'country_code': 'NL'}, {'asn': 2914, 'name': 'NTT-COMMUNICATIONS-2914', 'description': 'NTT America, Inc.', 'country_code': 'US'}, {'asn': 3257, 'name': 'GTT-BACKBONE', 'description': 'GTT', 'country_code': 'US'}, {'asn': 174, 'name': 'COGENT-174', 'description': 'Cogent Communications', 'country_code': 'US'}]}], 'name': 'NL-TRANSIP-20110817', 'description_short': 'Transip B.V.', 'description_full': ['Transip B.V.'], 'email_contacts': ['abuse@transip.nl', 'ripe_notify@transip.net', 'support@transip.nl', 'ripe@transip.net'], 'abuse_contacts': ['abuse@transip.nl'], 'owner_address': ['Vondellaan 47', '2332 AA', 'Leiden', 'NETHERLANDS'], 'country_codes': {'whois_country_code': 'NL', 'rir_allocation_country_code': 'NL', 'maxmind_country_code': No",0,support@transip.nl
+2021-01-15 22:06:36,AFFILIATE_EMAILADDR,sfp_email,"{'asn': 20857, 'name': 'TRANSIP-AS', 'description_short': 'Amsterdam, the Netherlands', 'description_full': ['Amsterdam, the Netherlands'], 'country_code': 'NL', 'website': 'http://www.transip.nl/', 'email_contacts': ['abuse@transip.nl', 'ripe_notify@transip.net', 'support@transip.nl', 'ripe@transip.net'], 'abuse_contacts': ['abuse@transip.nl'], 'looking_glass': None, 'traffic_estimation': '50-100Gbps', 'traffic_ratio': 'Mostly Outbound', 'owner_address': ['Vondellaan 47', '2332 AA', 'Leiden', 'NETHERLANDS'], 'rir_allocation': {'rir_name': 'RIPE', 'country_code': 'NL', 'date_allocated': '2001-06-20 00:00:00', 'allocation_status': 'allocated'}, 'iana_assignment': {'assignment_status': 'assigned', 'description': 'Assigned by RIPE NCC', 'whois_server': 'whois.ripe.net', 'date_assigned': None}, 'date_updated': '2021-01-15 04:13:11'}",0,support@transip.nl
+2021-01-15 22:05:23,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns2.transip.eu,0,transip.eu
+2021-01-15 22:11:36,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,web298.wh.transip.io,0,transip.io
+2021-01-15 22:04:58,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns0.transip.net,0,transip.net
+2021-01-15 22:04:24,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,ns1.transip.nl,0,transip.nl
+2021-01-15 22:18:59,AFFILIATE_DOMAIN_NAME,sfp_dnsresolve,balancer1.wh.transip.nl,0,transip.nl
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"uSTREAM (Category: video)
+http://www.ustream.tv/channel/myndr"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"uSTREAM (Category: video)
+http://www.ustream.tv/channel/myndr"
+2021-01-15 22:05:30,DNS_TEXT,sfp_dnsraw,myndr.nl,0,v=spf1 include:_s66943278.fdmarc.net ~all
+2021-01-15 22:05:30,DNS_SPF,sfp_dnsraw,myndr.nl,0,v=spf1 include:_s66943278.fdmarc.net ~all
+2021-01-15 21:58:55,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr.nl,0,"vsco (Category: social)
+https://vsco.co/myndr/gallery"
+2021-01-15 21:59:28,ACCOUNT_EXTERNAL_OWNED,sfp_accounts,myndr,0,"vsco (Category: social)
+https://vsco.co/myndr/gallery"
+2021-01-15 22:11:06,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,149.210.195.140,0,web298.wh.transip.io
+2021-01-15 22:12:34,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,149.210.195.142,0,web299.wh.transip.io
+2021-01-15 22:20:16,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,149.210.195.155,0,web811.wh.transip.io
+2021-01-15 22:21:35,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,149.210.195.156,0,web812.wh.transip.io
+2021-01-15 22:25:45,AFFILIATE_INTERNET_NAME,sfp_dnsresolve,149.210.195.157,0,web813.wh.transip.io
+2021-01-15 22:02:07,SEARCH_ENGINE_WEB_CONTENT,sfp_duckduckgo,ASPMX2.GOOGLEMAIL.COM,0,"{
+   ""Abstract"" : ""Gmail is a free email service developed by Google. Users can access Gmail on the web and using third-party programs that synchronize email content through POP or IMAP protocols. Gmail started as a limited beta release on April 1, 2004 and ended its testing phase on July 7, 2009. By October 2019, Gmail had 1.5 billion active users worldwide. At launch, Gmail had an initial storage capacity offer of one gigabyte per user, a significantly higher amount than competitors offered at the time. Today, the service comes with 15 gigabytes of storage. Users can receive emails up to 50 megabytes in size, including attachments, while they can send emails up to 25 megabytes. In order to send larger files, users can insert files from Google Drive into the message. Gmail has a search-oriented interface and a \""conversation view\"" similar to an Internet forum. The service is notable among website developers for its early adoption of Ajax."",
+   ""AbstractSource"" : ""Wikipedia"",
+   ""AbstractText"" : ""Gmail is a "
+2021-01-15 22:01:16,SEARCH_ENGINE_WEB_CONTENT,sfp_duckduckgo,ASPMX.L.GOOGLE.COM,0,"{
+   ""Abstract"" : ""Google Search, or simply Google, is a web search engine developed by Google LLC. It is the most used search engine on the World Wide Web across all platforms, with 92.16% market share as of December 2020, handling more than 5.4 billion searches each day. The order of search results returned by Google is based, in part, on a priority rank system called \""PageRank\"". Google Search also provides many different options for customized searches, using symbols to include, exclude, specify or require certain search behavior, and offers specialized interactive experiences, such as flight status and package tracking, weather forecasts, currency, unit, and time conversions, word definitions, and more. The main purpose of Google Search is to search for text in publicly accessible documents offered by web servers, as opposed to other data, such as images or data contained in databases. It was originally developed in 1997 by Larry Page, Sergey Brin, and Scott Hassan."",
+   ""AbstractSource"" : ""Wikipedia"",
+"
+2021-01-15 22:06:35,RAW_RIR_DATA,sfp_bgpview,20857,0,"{'asn': 20857, 'name': 'TRANSIP-AS', 'description_short': 'Amsterdam, the Netherlands', 'description_full': ['Amsterdam, the Netherlands'], 'country_code': 'NL', 'website': 'http://www.transip.nl/', 'email_contacts': ['abuse@transip.nl', 'ripe_notify@transip.net', 'support@transip.nl', 'ripe@transip.net'], 'abuse_contacts': ['abuse@transip.nl'], 'looking_glass': None, 'traffic_estimation': '50-100Gbps', 'traffic_ratio': 'Mostly Outbound', 'owner_address': ['Vondellaan 47', '2332 AA', 'Leiden', 'NETHERLANDS'], 'rir_allocation': {'rir_name': 'RIPE', 'country_code': 'NL', 'date_allocated': '2001-06-20 00:00:00', 'allocation_status': 'allocated'}, 'iana_assignment': {'assignment_status': 'assigned', 'description': 'Assigned by RIPE NCC', 'whois_server': 'whois.ripe.net', 'date_assigned': None}, 'date_updated': '2021-01-15 04:13:11'}"
+2021-01-15 22:06:33,RAW_RIR_DATA,sfp_bgpview,149.210.195.149,0,"{'ip': '149.210.195.149', 'ptr_record': 'webhosting-cluster.transip.nl', 'prefixes': [{'prefix': '149.210.128.0/17', 'ip': '149.210.128.0', 'cidr': 17, 'asn': {'asn': 20857, 'name': 'TRANSIP-AS', 'description': 'Amsterdam, the Netherlands', 'country_code': 'NL'}, 'name': 'NL-TRANSIP-20110817', 'description': 'Transip B.V.', 'country_code': 'NL'}], 'rir_allocation': {'rir_name': 'RIPE', 'country_code': 'NL', 'ip': '149.210.128.0', 'cidr': 17, 'prefix': '149.210.128.0/17', 'date_allocated': '2011-08-17 00:00:00', 'allocation_status': 'allocated'}, 'iana_assignment': {'assignment_status': 'legacy', 'description': 'Administered by ARIN', 'whois_server': 'whois.arin.net', 'date_assigned': None}, 'maxmind': {'country_code': None, 'city': None}}"
+2021-01-15 22:06:03,RAW_RIR_DATA,sfp_bgpview,2a01:7c8:eb:0:149:210:195:149,0,"{'ip': '2a01:7c8:eb:0:149:210:195:149', 'ptr_record': 'webhosting-cluster.transip.nl', 'prefixes': [{'prefix': '2a01:7c8::/32', 'ip': '2a01:7c8::', 'cidr': 32, 'asn': {'asn': 20857, 'name': 'TRANSIP-AS', 'description': 'Amsterdam, the Netherlands', 'country_code': 'NL'}, 'name': 'NL-TRANSIP-20080129', 'description': 'Transip B.V.', 'country_code': 'NL'}, {'prefix': '2000::/3', 'ip': '2000::', 'cidr': 3, 'asn': {'asn': 12874, 'name': 'FASTWEB', 'description': 'Fastweb SpA', 'country_code': 'IT'}, 'name': None, 'description': None, 'country_code': None}, {'prefix': '2000::/3', 'ip': '2000::', 'cidr': 3, 'asn': {'asn': 263152, 'name': 'MIGO TELECOM', 'description': 'MIGO TELECOM', 'country_code': 'BR'}, 'name': None, 'description': None, 'country_code': None}, {'prefix': '2000::/3', 'ip': '2000::', 'cidr': 3, 'asn': {'asn': 24785, 'name': 'JOINTTRANSIT-AS', 'description': 'Open Peering', 'country_code': 'NL'}, 'name': None, 'description': None, 'country_code': None}], 'rir_allocation': {'rir_name': 'RIPE', 'coun"
+2021-01-15 22:09:43,RAW_RIR_DATA,sfp_bgpview,149.210.128.0/17,0,"{'prefix': '149.210.128.0/17', 'ip': '149.210.128.0', 'cidr': 17, 'asns': [{'asn': 20857, 'name': 'TRANSIP-AS', 'description': 'Amsterdam, the Netherlands', 'country_code': 'NL', 'prefix_upstreams': [{'asn': 57866, 'name': 'FUSIX-AS', 'description': 'Fusix Networks B.V.', 'country_code': 'NL'}, {'asn': 2914, 'name': 'NTT-COMMUNICATIONS-2914', 'description': 'NTT America, Inc.', 'country_code': 'US'}, {'asn': 3257, 'name': 'GTT-BACKBONE', 'description': 'GTT', 'country_code': 'US'}, {'asn': 174, 'name': 'COGENT-174', 'description': 'Cogent Communications', 'country_code': 'US'}]}], 'name': 'NL-TRANSIP-20110817', 'description_short': 'Transip B.V.', 'description_full': ['Transip B.V.'], 'email_contacts': ['abuse@transip.nl', 'ripe_notify@transip.net', 'support@transip.nl', 'ripe@transip.net'], 'abuse_contacts': ['abuse@transip.nl'], 'owner_address': ['Vondellaan 47', '2332 AA', 'Leiden', 'NETHERLANDS'], 'country_codes': {'whois_country_code': 'NL', 'rir_allocation_country_code': 'NL', 'maxmind_country_code': No"
